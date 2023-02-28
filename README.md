@@ -1,2 +1,2 @@
 # plugin-test
-Test repository for Janus IDP 
+Plugin Test repository for Janus IDP 
